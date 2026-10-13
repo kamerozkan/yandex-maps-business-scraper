@@ -1,0 +1,151 @@
+[
+  {
+    "placeId": "156198469277",
+    "name": "Abozor Service",
+    "categories": [
+      "Car service, auto repair"
+    ],
+    "address": "Tashkent, Yashnabad District, Mahtumquli Street, 75/1",
+    "fullAddress": "Tashkent, Yashnabad District, Mahtumquli Street, 75/1",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "postalCode": null,
+    "latitude": 41.304347,
+    "longitude": 69.319563,
+    "phones": [
+      "+1 555 0100"
+    ],
+    "website": "https://abozorservice.uz/warranty/service-centers",
+    "otherWebsites": [],
+    "socialLinks": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/avtoritet.uzbekistan"
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/avtoritet.uzbekistan/"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/avtoritetbot"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/Avtoritetbot"
+      }
+    ],
+    "rating": 5,
+    "ratingCount": 581,
+    "reviewCount": 156,
+    "workingHours": "daily, 9:00 AM–9:00 PM",
+    "businessStatus": "open",
+    "isAdvertised": false,
+    "chain": null,
+    "nearestMetro": "Mashinasozlar",
+    "yandexMapsUrl": "https://yandex.com/maps/org/abozor_service/156198469277/",
+    "searchTerm": "автосервис",
+    "location": "Tashkent",
+    "scrapedAt": "2026-10-13T09:57:35+00:00"
+  },
+  {
+    "placeId": "213791642298",
+    "name": "Auto repair shop",
+    "categories": [
+      "Car service, auto repair"
+    ],
+    "address": "Tashkent, Karasu Street, 9Б",
+    "fullAddress": "Tashkent, Karasu Street, 9Б",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "postalCode": null,
+    "latitude": 41.301405,
+    "longitude": 69.342378,
+    "phones": [
+      "+1 555 0100",
+      "+1 555 0100",
+      "+1 555 0100"
+    ],
+    "website": "https://car-driver.uz/services/uslugi-avtoservisa",
+    "otherWebsites": [],
+    "socialLinks": [
+      {
+        "type": "facebook",
+        "url": "http://facebook.com/%D1%81ar-driver-detailing-2019666828069461"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/car_driver"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/car_driver_detailing"
+      },
+      {
+        "type": "whatsapp",
+        "url": "https://wa.me/998930029449"
+      },
+      {
+        "type": "facebook",
+        "url": "https://facebook.com/cardriverdetailinguz"
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/totalautoservicepoytaht/"
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/cardriverdetailing/"
+      }
+    ],
+    "rating": 5,
+    "ratingCount": 107,
+    "reviewCount": 25,
+    "workingHours": "daily, 9:00 AM–7:00 PM",
+    "businessStatus": "open",
+    "isAdvertised": false,
+    "chain": null,
+    "nearestMetro": "Yashnobod",
+    "yandexMapsUrl": "https://yandex.com/maps/org/auto_repair_shop/213791642298/",
+    "searchTerm": "автосервис",
+    "location": "Tashkent",
+    "scrapedAt": "2026-10-13T09:57:35+00:00"
+  },
+  {
+    "placeId": "175014896232",
+    "name": "Abozor",
+    "categories": [
+      "Car service, auto repair"
+    ],
+    "address": "Tashkent, Yashnabad City District, Aviasozlar Shaharchasi, 2-mavze, 1/1",
+    "fullAddress": "Tashkent, Yashnabad City District, Aviasozlar Shaharchasi, 2-mavze, 1/1",
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "postalCode": null,
+    "latitude": 41.283886,
+    "longitude": 69.340785,
+    "phones": [
+      "+1 555 0100"
+    ],
+    "website": "https://abozorservice.uz/warranty/service-centers",
+    "otherWebsites": [],
+    "socialLinks": [
+      {
+        "type": "telegram",
+        "url": "https://t.me/Avtoritetbot"
+      }
+    ],
+    "rating": 4.7,
+    "ratingCount": 497,
+    "reviewCount": 124,
+    "workingHours": "Mon-Sat 9:00 AM–9:00 PM",
+    "businessStatus": "open",
+    "isAdvertised": false,
+    "chain": "Abozor",
+    "nearestMetro": "Tuzel",
+    "yandexMapsUrl": "https://yandex.com/maps/org/abozor/175014896232/",
+    "searchTerm": "автосервис",
+    "location": "Tashkent",
+    "scrapedAt": "2026-10-13T09:57:35+00:00"
+  }
+]
